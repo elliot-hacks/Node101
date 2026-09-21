@@ -1,0 +1,20 @@
+ {
+  "name": "node101",
+  "version": "1.0.0",
+  "description": "Node app Basics",
+  "homepage": "https://github.com/elliot-hacks/Node101#readme",
+  "bugs": {
+    "url": "https://github.com/elliot-hacks/Node101/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elliot-hacks/Node101.git"
+  },
+  "license": "ISC",
+  "author": "elliothacks",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "fuuga"
+  }
+}
